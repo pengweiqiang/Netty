@@ -1,4 +1,4 @@
-package com.will.netty;
+package com.will.netty.netty1;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerAdapter;
